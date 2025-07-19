@@ -19,7 +19,7 @@ A basic command-line calculator built with Python that supports:
 
 ## Example Commands
 
-```text
+
 8 + 8       # returns 16  
 10 * 5      # returns 50  
 HISTORY     # shows calculation history  
@@ -28,7 +28,7 @@ EXIT        # exits the program
 
 
 
-File Structure:
+##File Structure:
 
 calculator.py — Main program file.
 
