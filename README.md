@@ -29,4 +29,5 @@ EXIT               # exits the program
 File Structure:
 
 calculator.py — Main program file.
+
 history.txt — Stores the history of calculations.
