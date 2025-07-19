@@ -17,13 +17,14 @@ A basic command-line calculator built with Python that supports:
 - Exit the program using the `EXIT` command.
 - Automatically logs calculations to a `history.txt` file.
 
-Example Commands
+## Example Commands
 
-8 + 8       # returns 16
-10 * 5      # returns 50
-HISTORY     # shows calculation history
-CLEAR       # clears calculation history
-EXIT        # exits the program
+```text
+8 + 8       # returns 16  
+10 * 5      # returns 50  
+HISTORY     # shows calculation history  
+CLEAR       # clears calculation history  
+EXIT        # exits the program  
 
 
 
