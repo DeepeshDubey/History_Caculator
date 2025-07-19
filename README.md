@@ -29,7 +29,7 @@ EXIT        # exits the program
 
 
 
-##File Structure:
+## File Structure:
 
 calculator.py — Main program file.
 
